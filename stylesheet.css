@@ -1,7 +1,10 @@
-body {background-color: purple;}
-p {color: white;}
-h1 {color: pink;}
-body {font-family: Arial, Verdana, sans-serif;
-
+body {
+font-family: Arial, Verdana, sans-serif;}
+h1, h2 {
+color: #FF9933;}
+p {
+color: white;}
+body {
+background-color: teal;
 
 }
